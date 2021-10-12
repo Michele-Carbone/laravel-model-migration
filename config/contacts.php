@@ -3,6 +3,6 @@
 
 return [
     ['icon' => 'fa-home', 'text' => 'Viale dei Giardini'],
-    ['icon' => 'fa-phone', 'text' => '34503548415461'],
-    ['icon' => 'fa-envelope', 'text' => 'realstate38@gmail.com']
+    ['icon' => 'fa-phone', 'text' => '0445686952'],
+    ['icon' => 'fa-envelope', 'text' => 'travelgoAus8@gmail.com']
 ];

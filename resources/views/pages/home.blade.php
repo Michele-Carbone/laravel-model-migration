@@ -4,6 +4,6 @@
 
 @section('content')
     <section id="home" class="container">
-        <h1>Travel Agency</h1>
+        <h1 class="text-center my-5">Travel Agency</h1>
     </section>
 @endsection

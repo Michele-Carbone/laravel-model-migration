@@ -12,7 +12,7 @@ del sito la posizioniamo nella cartella views assieme alla Home--}}
 
 @section('content')
     <section id="contacts" class="container">
-        <h1>Vieni a trovarci o contattaci tramite i nostri canali</h1>
+        <h1 class="text-center my-5">Vieni a trovarci o contattaci tramite i nostri canali</h1>
 
         @foreach ($contacts as $contact)
         <div><i class="fas {{ $contact['icon'] }} me-2"></i>{{ $contact['text'] }}</div>
